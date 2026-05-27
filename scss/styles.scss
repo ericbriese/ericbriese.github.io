@@ -890,6 +890,11 @@ footer {
         left: auto;
         top: auto;
 
+        img {
+            max-width: 80vw;
+            max-height: 80vw;
+        }
+
         h1 {
             font-size: 3em;
         }
